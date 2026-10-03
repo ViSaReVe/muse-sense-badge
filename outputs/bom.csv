@@ -1,0 +1,17 @@
+References,Quantity,Manufacturer Part Number,LCSC,LCSC stock 2026-10-03,Unit price USD (qty 1),JLC type,URL
+C1,1,CL21A226MAQNNNE,C45783,1734789,0.1185,basic,https://www.lcsc.com/product-detail/C45783.html
+C2 C8 C6 C7,4,CC0603KRX7R9BB104,C14663,12618106,0.0106,basic,https://www.lcsc.com/product-detail/C14663.html
+C3,1,CL10A105KB8NNNC,C15849,5979916,0.0297,basic,https://www.lcsc.com/product-detail/C15849.html
+C4 C5,2,CL21A106KAYNNNE,C15850,3505306,0.0773,basic,https://www.lcsc.com/product-detail/C15850.html
+D1,1,WS2812B-B/T,C2761795,370560,0.1069,extended,https://www.lcsc.com/product-detail/C2761795.html
+J1,1,TYPE-C-31-M-12,C165948,89797,0.1858,extended,https://www.lcsc.com/product-detail/C165948.html
+J2,1,SM04B-SRSS-TB(LF)(SN),C160404,7284,0.2262,extended,https://www.lcsc.com/product-detail/C160404.html
+R1,1,0603WAF1002T5E,C25804,37165617,0.0008,basic,https://www.lcsc.com/product-detail/C25804.html
+R3 R4,2,0603WAF4701T5E,C23162,7433362,0.0015,basic,https://www.lcsc.com/product-detail/C23162.html
+R5 R6,2,0603WAF5101T5E,C23186,3775920,0.0019,basic,https://www.lcsc.com/product-detail/C23186.html
+R7 R8,2,0603WAF220JT5E,C23345,2657294,0.0017,basic,https://www.lcsc.com/product-detail/C23345.html
+SW1 SW2,2,TS-1187A-B-A-B,C318884,1683297,0.0197,basic,https://www.lcsc.com/product-detail/C318884.html
+U1,1,ESP32-S3-WROOM-1-N8R8,C2913201,6547,4.9831,extended,https://www.lcsc.com/product-detail/C2913201.html
+U2,1,USBLC6-2SC6,C7519,36380,0.1639,extended,https://www.lcsc.com/product-detail/C7519.html
+U3,1,AP2112K-3.3TRG1,C51118,79480,0.1577,extended,https://www.lcsc.com/product-detail/C51118.html
+U4,1,SN74AHCT1G125DBVR,C7484,22987,0.1037,extended,https://www.lcsc.com/product-detail/C7484.html

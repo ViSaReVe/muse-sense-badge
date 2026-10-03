@@ -1,0 +1,18 @@
+{
+  "name": "muse-sense-badge",
+  "version": "0.1.0",
+  "description": "ESP32-S3 sensor badge for Muse Gadgets, designed in tscircuit",
+  "main": "index.circuit.tsx",
+  "private": true,
+  "scripts": {
+    "dev": "tsci dev",
+    "build": "tsci build index.circuit.tsx --pcb-png --schematic-png --svgs --glbs --3d",
+    "drc": "node scripts/drc.mjs && node scripts/drc-selftest.mjs",
+    "bom": "node scripts/bom.mjs",
+    "outputs": "bash scripts/outputs.sh"
+  },
+  "devDependencies": {
+    "tscircuit": "0.0.2743",
+    "typescript": "^5.0.0"
+  }
+}

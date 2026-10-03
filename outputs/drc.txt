@@ -1,0 +1,33 @@
+Muse Sense E1 DRC report
+tscircuit 0.0.2743, @tscircuit/checks 0.0.236
+pcb_trace: 66, pcb_via: 32 (drill/pad 0.3/0.6 mm)
+Total errors: 0
+
+checkEachPcbPortConnectedToPcbTraces: 0 error(s)
+checkSourceTracesHavePcbTraces: 0 error(s)
+checkTracesAreContiguous: 0 error(s)
+checkSameNameNetsAreConnected: 0 error(s)
+checkPinMustBeConnected: 0 error(s)
+checkEachPcbTraceNonOverlapping: 0 error(s)
+checkPcbTraceSelfShorts: 0 error(s)
+checkPadPadClearance: 0 error(s)
+checkPadTraceClearance: 0 error(s)
+checkViaPadClearance: 0 error(s)
+checkViaTraceClearance: 0 error(s)
+checkViasInPads: 0 error(s)
+checkDifferentNetViaSpacing: 0 error(s)
+checkSameNetViaSpacing: 0 error(s)
+checkHoleTraceClearance: 0 error(s)
+checkCopperToBoardEdgeClearance: 0 error(s)
+checkPcbTracesOutOfBoard: 0 error(s)
+checkViasOffBoard: 0 error(s)
+checkPcbComponentsOutOfBoard: 0 error(s)
+checkPcbComponentOverlap: 0 error(s)
+checkPcbCopperOverKeepout: 0 error(s)
+checkPcbCourtyardOverKeepout: 0 error(s)
+checkDanglingTraces: 0 error(s)
+checkConnectorAccessibleOrientation: 0 error(s)
+checkTwoTerminalSwitchContactsOnDifferentNets: 0 error(s)
+local: trace points inside keepouts: 0 error(s)
+
+runAllChecks: 0 error(s), 0 warning(s)
