@@ -97,3 +97,7 @@ Things that behaved differently than expected in tscircuit 0.0.2743:
 ## Out of scope for E1
 
 Battery, sensors on the board, an enclosure, a UART header. No fabrication or purchase has been made.
+
+## License
+
+The hardware design in this repository is licensed under the CERN Open Hardware Licence Version 2 - Permissive (SPDX: `CERN-OHL-P-2.0`). See [`LICENSE`](LICENSE). Parts in `imports/` were generated from JLCPCB/EasyEDA data with `tsci import`.
